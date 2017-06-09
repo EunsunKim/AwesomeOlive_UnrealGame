@@ -12,9 +12,18 @@ Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2
   - This game follows the classical arcade game style, where a player can run, jump, gain points, fights with enemies, and proceeds to the next level by achieving goals.
   - This level shows the first level of the game, right after the intro cinematic and tutorial level.
 
-# Game Characters
+# Game Characters and Items
 
 
+| Character | Name | Description |
+| ------ | ------ | ------ |
+| <img src="images/olive.PNG" width="100"> | Hero | Main Character|
+| <img src="images/redinvaert.PNG" width="100"> | Red Invader | Enemy |
+| <img src="images/electric.PNG" width="100"> | Electric Invader | Enemy |
+| <img src="images/spaceinvader.PNG" width="100"> |  Space Invader| Enemy |
+| <img src="images/heart.PNG" width="100"> | heart | Item for heath increasing |
+| <img src="images/coin.PNG" width="100"> | coin | Item |
+| <img src="images/boat.PNG" width="100"> |   boat | Item|
 
 # Game Play
 
