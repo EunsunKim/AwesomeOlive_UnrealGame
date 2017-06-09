@@ -1,18 +1,22 @@
 # Awesome Olive
 
-AwesomeOlive is the first level of a game created with the Unreal Engine 4.13.2, 3D Studio MAX 2015, and Adobe PhotoShop CC 2015.
-```sh
-    References
-    - Used free Background from Unreal Marketplace 
-    - Used free sample Heart, Invader, Boat from http://tf3dm.com/3d-models/unreal
-    - Used *.wav samples
-```
+Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2, 3D Studio MAX 2015, and Adobe PhotoShop CC 2015.
+
 # Overview
 
+```sh
+> Olive, a right-handed machine, travels to save human friends captured by Invaders. 
+> He struggles to save his friends in the Invaders Den and his colleagues 
+> whom he met during his long journey.
+```
   - This game follows the classical arcade game style, where a player can run, jump, gain points, fights with enemies, and proceeds to the next level by achieving goals.
   - This level shows the first level of the game, right after the intro cinematic and tutorial level.
 
-# Game Structure
+# Game Characters
+
+
+
+# Game Play
 
   - Press F key to fire the missile and remove the three electric invaders.
   - When you see the message that you can launch the boat, board the boat.  - 
@@ -35,16 +39,16 @@ You will also:
 | Left Mouse Button + Drag |   Viewing direction   |
 
 
-> Olive, a right-handed machine, travels to save human friends captured by Invaders. 
-> He struggles to save his friends in the Invaders Den and his colleagues 
-> whom he met during his long journey.
 
 ### Tech
 
 *
 
+###  References
+* Used free Background from Unreal Marketplace 
+* Used free sample Heart, Invader, Boat from http://tf3dm.com/3d-models/unreal
+* Used *.wav samples
 
 #### Unreal
 
 See [unrealengine site](https://www.unrealengine.com/what-is-unreal-engine-4)
-
