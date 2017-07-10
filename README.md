@@ -5,9 +5,8 @@ Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2
 # Overview
 
 ```sh
-> Olive, a right-handed machine, travels to save human friend captured by Invader. 
-> He struggles to save his friend in the Invader's Den with his colleagues 
-> whom he met during his long journey.
+> Olive, a right-handed machine, sets off into a adventure to rescue a close friend that has been captured by a Invader. 
+> He struggles to save his friend in the Invader's Den with his colleagues whom he met during his long journey.
 ```
   - This game follows the classical arcade game style, where a player can run, jump, gain points, fights with enemies, and proceeds to the next level by achieving goals.
   - This level shows the first level of the game, right after the intro cinematic and tutorial level.
@@ -27,11 +26,11 @@ Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2
 
 # Game Play
 
-  - Press F key to fire the missile and remove the three electric invaders.
+  - Press the F key to use the firearm and remove the three electric invaders.
   - When you see the message that you can launch the boat, board the boat.  - 
   - All missions must be completed within 600 seconds of the start of the game.
-  - Fire and Invader contact drops health and gains Hearts 10 health.
-  - When you fall into deep water, health becomes zero and the game ends.
+  - Fire and Invader contact drops health.
+  - When you fall into deep water, health drops to 0 and the game ends.
 
 You will also:
   - visit the wooden bridge, the switch is newly turned on, then the electric invader reappears so you can try the hunt for the invader multiple times.
