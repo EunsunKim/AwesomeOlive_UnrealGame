@@ -5,10 +5,8 @@ Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2
 # Overview
 
 ```sh
-> Olive, a right-handed machine, sets off into a adventure to rescue a close friend 
-> that has been captured by a Invader. 
-> He struggles to save his friend in the Invader's Den with his colleagues 
-> whom he met during his long journey.
+> Olive, a right-handed machine, sets off into a adventure to rescue a close friend that has been captured by a Invader. 
+> He struggles to save his friend in the Invader's Den with his colleagues whom he met during his long journey.
 ```
   - This game follows the classical arcade game style, where a player can run, jump, gain points, fights with enemies, and proceeds to the next level by achieving goals.
   - This level shows the first level of the game, right after the intro cinematic and tutorial level.
