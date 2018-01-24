@@ -49,9 +49,17 @@ You will also:
 
 
 ### Tech
+* Level
+<img src="level_b01.PNG" width="500">
+* Character
+<img src="character_b01.PNG" width="500">
+* Item - coin
+<img src="coin_b01.PNG" width="500">
+* Item - bullet
+<img src="fire_b01.PNG" width="500">
+* Enemy - fire
+<img src="bullet_b01.PNG" width="500">
 
-*
-<img src="level_b01.PNG" width="400">
 
 ###  References
 * Used free Background from Unreal Marketplace 
