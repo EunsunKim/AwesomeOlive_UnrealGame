@@ -17,11 +17,11 @@ Awesome Olive is the first level of a game created with the Unreal Engine 4.13.2
 | Character | Name | Description |
 | ------ | ------ | ------ |
 | <img src="images/olive.PNG" width="100"> | Hero | Main Character|
-| <img src="images/redinvaert.PNG" width="100"> | Red Invader | Enemy |
-| <img src="images/electric.PNG" width="100"> | Electric Invader | Enemy |
-| <img src="images/spaceinvader.PNG" width="100"> |  Space Invader| Enemy |
-| <img src="images/heart.PNG" width="100"> | heart | Item for heath increasing |
-| <img src="images/coin.PNG" width="100"> | coin | Item |
+| <img src="images/redinvaert.PNG" width="100"> | Red Invader | Enemy |When a character bumps into the Invader, the amount of health decreases by 3 per second.|
+| <img src="images/electric.PNG" width="100"> | Electric Invader | Enemy |When a character bumps into the Invader, the amount of health decreases by 3 per second.|
+| <img src="images/spaceinvader.PNG" width="100"> |  Space Invader| Enemy |When a character bumps into the Invader, the amount of health decreases by 3 per second.|
+| <img src="images/heart.PNG" width="100"> | heart | Item for heath increasing by 100 each |
+| <img src="images/coin.PNG" width="100"> | coin | Item for score increasing by 10 each |
 | <img src="images/boat.PNG" width="100"> |   boat | Item|
 
 # Game Play
